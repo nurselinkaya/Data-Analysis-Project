@@ -1,7 +1,7 @@
 # Complete Data Analysis of Energy Consumption in France
 
 ### About the Dataset
-This code analyzes a dataset named "eco2mix-regional-cons-def.csv", which contains information about the energy consumption and production of different regions in France from 2013 to 2022. The code performs several data cleaning steps, feature engineering, data analysis, and machine learning modeling to analyze the dataset.
+In this project, a dataset named "eco2mix-regional-cons-def.csv", which contains information about the energy consumption and production of different regions in France from 2013 to 2022, has been analyzed. Several data cleaning steps, feature engineering, data analysis, machine learning models and time series to analyze the dataset have been performed.
 The dataset can be downloaded from here:
 
 https://opendata.reseaux-energies.fr/explore/dataset/eco2mix-regional-cons-def/information/?disjunctive.libelle_region&disjunctive.nature&sort=-date_heure
