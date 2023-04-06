@@ -27,7 +27,7 @@ datetime
 
 warnings
 
-### Data Cleaning
+### Data Wrangling
 Several data cleaning steps have been performed to prepare the dataset for analysis. The cleaning steps include removing unnecessary and irrelevant columns, handling missing values, and translating the column names from French to English. The data before 2019 was removed from the dataset, due to the inconsistency in previous years.
 
 ### Feature Engineering
